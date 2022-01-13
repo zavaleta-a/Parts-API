@@ -1,0 +1,40 @@
+{
+    "vehicles": [
+        {
+            "id": 0,
+            "name": "Toyota",
+            "model": "RAV4",
+            "year": "2020"
+        }
+    ]
+},
+
+{
+    "parts": [
+        {
+            "id": 0,
+            "name": "air filter",
+            "price": "15.99"
+        },
+        {
+            "id": 1,
+            "name": "brake pads",
+            "price": "24.99"
+        }
+        {
+            "id": 2,
+            "name": "oil filter",
+            "price": "9.99"
+        }
+        {
+            "id": 3,
+            "name": "shock absorber",
+            "price": "81.99"
+        }
+        {
+            "id": 4,
+            "name": "alternator",
+            "price": "164.99"
+        }
+    ]
+}
