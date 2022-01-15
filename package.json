@@ -1,5 +1,5 @@
 {
-  "name": "Parts-API",
+  "name": "parts-api",
   "version": "1.0.0",
   "description": "List of parts",
   "main": "index.js",
@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zavaleta-a/Parts-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zavaleta-a/Parts-API/issues"
+  },
+  "homepage": "https://github.com/zavaleta-a/Parts-API#readme"
 }
