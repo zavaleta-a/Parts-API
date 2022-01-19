@@ -32,6 +32,16 @@
       "id": 4,
       "name": "alternator",
       "price": "164.99"
+    },
+    {
+      "id": 5,
+      "name": "spark plug",
+      "price": "8.79"
+    },
+    {
+      "id": 6,
+      "name": "fuel pump",
+      "price": "499.99"
     }
   ]
 }
